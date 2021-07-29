@@ -5,3 +5,38 @@ main>.container {
 body {
     background-color: navy;
 }
+
+body> main {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+
+.homeBG {
+    width: 100%;
+    background: url(/img/The\ Grid.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.homeText {
+    font-family: 'Charm', cursive, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(195, 255, 0);
+}
+
+.minHeight {
+    min-height: 80vh;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42pt;
+}
+
+p {
+    text-align: center;
+}
