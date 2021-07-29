@@ -3,7 +3,7 @@ main>.container {
 }
 
 body {
-    background-color: navy;
+    background-color: rgba(8, 8, 56, 0.87);
 }
 
 body> main {
@@ -14,7 +14,7 @@ body> main {
 
 .homeBG {
     width: 100%;
-    background: url(/img/The\ Grid.jpeg);
+    background: url(/img/tech_img.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
